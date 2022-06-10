@@ -33,24 +33,21 @@ Your app is ready to be deployed!
 ```bash
 src
 .
-├── App.js
-├── App.test.js
-├── Result.js
-├── Step1.js
-├── Step2.js
-├── Step3.js
+├── App.tsx
+├── App.test.ts
+├── Step1.tsx
+├── Step2.tsx
+├── Result.tsx
 ├── components
-│   ├── AddImages.js
-│   ├── FileInput copy.js
-│   ├── FileInput.js
-│   ├── Form.js
-│   ├── Header.js
-│   ├── Input.js
-│   ├── MainContainer.js
-│   └── PrimaryButton.js
-├── index.css
-├── index.js
-├── setupTests.js
-└── store
-    └── DataContext.js
+│   ├── AddImages.tsx
+│   ├── Form.tsx
+│   ├── Header.tsx
+│   ├── Input.tsx
+│   ├── MainContainer.tsx
+│   └── PrimaryButton.tsx
+├── store
+│    └── DataContext.tsx
+├── setupTests.ts
+├── index.tsx
+└── index.css
 ```
