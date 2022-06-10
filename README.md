@@ -30,23 +30,27 @@ Your app is ready to be deployed!
 
 ## Structure
 
-```
+```bash
 src
-┣-components
-┃ ┣-- AddImage.tsx
-┃ ┣-- Form.tsx
-┃ ┣-- Header.tsx
-┃ ┣-- Input.tsx
-┃ ┣-- MainContainer.tsx
-┃ ┗-- PrimaryButton.tsx
-┣-store
-┃ ┗-- DataContext.tsx
-┣-- App.tsx
-┣-- App.test.ts
-┣-- Result.tsx
-┣-- Step1.tsx
-┣-- Step2.tsx
-┣-- index.css
-┣-- index.tsx
-┗-- setupTests.ts
+.
+├── App.js
+├── App.test.js
+├── Result.js
+├── Step1.js
+├── Step2.js
+├── Step3.js
+├── components
+│   ├── AddImages.js
+│   ├── FileInput copy.js
+│   ├── FileInput.js
+│   ├── Form.js
+│   ├── Header.js
+│   ├── Input.js
+│   ├── MainContainer.js
+│   └── PrimaryButton.js
+├── index.css
+├── index.js
+├── setupTests.js
+└── store
+    └── DataContext.js
 ```
