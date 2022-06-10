@@ -2,7 +2,7 @@
 
 ## Tech
 
-- ReactJS, TypeScript, MaterialUI, Jest Test
+### ReactJS, TypeScript, MaterialUI, Jest Test
 
 ## How to run this code
 
