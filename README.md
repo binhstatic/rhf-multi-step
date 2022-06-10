@@ -30,8 +30,9 @@ Your app is ready to be deployed!
 
 ## Structure
 
+```
 src
-┣-components  
+┣-components
 ┃ ┣-- AddImage.tsx
 ┃ ┣-- Form.tsx
 ┃ ┣-- Header.tsx
@@ -48,3 +49,4 @@ src
 ┣-- index.css
 ┣-- index.tsx
 ┗-- setupTests.ts
+```
