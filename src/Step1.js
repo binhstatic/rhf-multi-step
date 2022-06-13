@@ -55,7 +55,7 @@ const Step1 = () => {
           helperText={errors?.firstName?.message}
         />
         <Input
-          {...register('lastName')}
+          {...register('lastName', { required: true })}
           id='lastName'
           type='text'
           label='Last Name'
