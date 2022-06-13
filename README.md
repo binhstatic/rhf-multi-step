@@ -2,8 +2,7 @@
 
 ## Tech
 
-- oh my zsh
-- ReactJS, TypeScript, MaterialUI, Jest Test
+### ReactJS, TypeScript, MaterialUI, Jest Test
 
 ## How to run this code
 
